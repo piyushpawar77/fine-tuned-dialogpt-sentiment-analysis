@@ -164,6 +164,8 @@ df = pd.read_csv('your_sentiment_data.csv')
 * **Example Prompts**: Pre-loaded examples for quick testing
 * **Shareable Links**: Easy deployment and sharing
 * **Mobile-Friendly**: Works across all devices
+![Screenshot_10-9-2025_9215_colab research google com](https://github.com/user-attachments/assets/3e4d1f07-1651-4573-a9a9-95c22fbab1d9)
+
 
 ## 📄 License
 
@@ -186,7 +188,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if it helped you!** ⭐
 
 *Built with ❤️ for the open-source community*
-
----
-
-This version removes the Google Colab-specific mentions, the contributing section, and the educational use cases, and it updates the contact section by removing the email placeholder. The structure and clarity are preserved, making it suitable for a general Python environment and appealing to users on GitHub. If you want me to finalize it with your name and LinkedIn, just share the details.
