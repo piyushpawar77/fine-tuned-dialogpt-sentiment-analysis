@@ -1,4 +1,4 @@
-# 🧠 Fine Tuned Dialogpt for Sentiment Analysis
+# 🧠 Memory-Efficient Sentiment Analysis with DialoGPT
 
 ⚡ Memory-optimized sentiment analysis AI using 4-bit quantized DialoGPT. Fine-tune lightweight models with custom data, generate natural emotional responses with personalized advice, and deploy instantly with an interactive web interface.
 
