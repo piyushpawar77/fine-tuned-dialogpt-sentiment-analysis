@@ -165,6 +165,7 @@ df = pd.read_csv('your_sentiment_data.csv')
 * **Shareable Links**: Easy deployment and sharing
 * **Mobile-Friendly**: Works across all devices
 ![Screenshot_10-9-2025_9215_colab research google com](https://github.com/user-attachments/assets/3e4d1f07-1651-4573-a9a9-95c22fbab1d9)
+![Screenshot_10-9-2025_9628_colab research google com](https://github.com/user-attachments/assets/bbc0bdaf-bb24-4d6d-8dc7-b26160164c4f)
 
 
 ## 📄 License
